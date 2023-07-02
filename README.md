@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/desmondkpohizoun/overlay/background-image/)]([https://rishavchanda.io](https://github.com/daiz93/daiz93)
+
 
 <h1 align="center">Hi 👋, I'm Desmond KPOHIZOUN (DeKa)</h1>
 <h3 align="center">A passionate software developer</h3>
