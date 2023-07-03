@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **REACT JS and PYTHON Coding**
 
-- 👨‍💻 My portfolio is o building, But you can see my web site here [https://africa-services.net/](https://africa-services.net/)
+- 👨‍💻 My portfolio is on building, But you can see my web site here [https://africa-services.net/](https://africa-services.net/)
 
 - 💬 Ask me about **ASP.NET CORE or Probleme solving**
 
